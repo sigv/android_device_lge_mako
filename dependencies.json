@@ -1,0 +1,74 @@
+[
+    {
+        "path":      "device/lge/mako-kernel",
+        "repo":      "device/lge/mako-kernel",
+        "remote":    "aosp",
+        "revision":  "refs/tags/android-5.1.1_r24"
+    },
+    {
+        "path":      "hardware/qcom/audio",
+        "repo":      "platform/hardware/qcom/audio",
+        "remote":    "aosp",
+        "revision":  "refs/tags/android-5.1.1_r24"
+    },
+    {
+        "path":      "hardware/qcom/bt",
+        "repo":      "platform/hardware/qcom/bt",
+        "remote":    "aosp",
+        "revision":  "refs/tags/android-5.1.1_r24"
+    },
+    {
+        "path":      "hardware/qcom/display",
+        "repo":      "platform/hardware/qcom/display",
+        "remote":    "aosp",
+        "revision":  "refs/tags/android-5.1.1_r24"
+    },
+    {
+        "path":      "hardware/qcom/keymaster",
+        "repo":      "platform/hardware/qcom/keymaster",
+        "remote":    "aosp",
+        "revision":  "refs/tags/android-5.1.1_r24"
+    },
+	{
+        "path":      "hardware/qcom/media",
+        "repo":      "platform/hardware/qcom/media",
+        "remote":    "aosp",
+        "revision":  "refs/tags/android-5.1.1_r24"
+    },
+    {
+        "path":      "hardware/qcom/msm8x74",
+        "repo":      "platform/hardware/qcom/msm8x74",
+        "remote":    "aosp",
+        "revision":  "refs/tags/android-5.1.1_r24"
+    },
+    {
+        "path":      "hardware/qcom/msm8960",
+        "repo":      "platform/hardware/qcom/msm8960",
+        "remote":    "aosp",
+        "revision":  "refs/tags/android-5.1.1_r24"
+    },
+    {
+        "path":      "hardware/qcom/power",
+        "repo":      "platform/hardware/qcom/power",
+        "remote":    "aosp",
+        "revision":  "refs/tags/android-5.1.1_r24"
+    },
+    {
+        "path":      "hardware/qcom/sensors",
+        "repo":      "platform/hardware/qcom/sensors",
+        "remote":    "aosp",
+        "revision":  "refs/tags/android-5.1.1_r24"
+    },
+    {
+        "path":      "hardware/qcom/wlan",
+        "repo":      "platform/hardware/qcom/wlan",
+        "remote":    "aosp",
+        "revision":  "refs/tags/android-5.1.1_r24"
+    },
+    {
+        "path":      "vendor/lge/mako",
+        "repo":      "proprietary_vendor_lge_mako",
+        "remote":    "blobs",
+        "revision":  "marshmallow"
+    }
+]
